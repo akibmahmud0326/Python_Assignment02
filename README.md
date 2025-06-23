@@ -1,4 +1,4 @@
-# 🐍 Python Operators – Class Assignment
+# Python Operators – Class Assignment
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Level](https://img.shields.io/badge/Level-Beginner-brightgreen)
@@ -6,36 +6,36 @@
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 
-## 📌 Overview
+## Overview
 
 This repository contains complete solutions for a **Python Operators** class assignment.
 You’ll see clear, runnable examples of **arithmetic, logical, assignment, and comparison operators** plus a bonus **student-grading system** that ties them all together.
 
-📁 Assignment Structure <br/>
+Assignment Structure <br/>
 
-✅ 1. Arithmetic Operators <br/>
+1. Arithmetic Operators <br/>
 Calculate area and perimeter of a rectangle <br/>
 Convert temperature from Celsius to Fahrenheit <br/>
 Find remainder of a division <br/>
 Compute expressions using exponentiation and division <br/>
 Calculate average of 5 numbers <br/>
-✅ 2. Logical Operators <br/>
+2. Logical Operators <br/>
 Check if a number is positive and even <br/>
 Check voting eligibility <br/>
 Verify conditions using logical and, or, and not <br/>
 Validate student pass/fail status <br/>
 Reverse boolean conditions <br/>
-✅ 3. Assignment Operators <br/>
+3. Assignment Operators <br/>
 Perform chained operations on a variable using +=, -=, *=, /=, %= <br/>
 Create a counter using += <br/>
 Simulate interest accumulation with *= <br/>
 Build a countdown using -= <br/>
-✅ 4. Comparison Operators <br/>
+4. Comparison Operators <br/>
 Check equality and inequality <br/>
 Compare ages and values <br/>
 Determine conditions based on year and marks <br/>
 Validate division safety <br/>
-⭐ Bonus: Mixed Assignment – Grading System <br/>
+Bonus: Mixed Assignment – Grading System <br/>
 A full program that: <br/>
 
 Accepts student details and marks <br/>
@@ -47,20 +47,20 @@ Recalculates results after bonus <br/>
 Prints a detailed report <br/>
 
 
-## 🚀 Features 
+## Features 
 
-* ✅ Self-contained, ready-to-run script (`assignment.py`)
-* 🧮 Demonstrates every core operator category in Python
-* 📝 Bonus grading system with total, average, grade, pass/fail & scholarship checks
-* 🔄 No external libraries required—only the Python standard library
+* Self-contained, ready-to-run script (`assignment.py`)
+* Demonstrates every core operator category in Python
+* Bonus grading system with total, average, grade, pass/fail & scholarship checks
+* No external libraries required—only the Python standard library
 
 
-## 🧰 Technologies Used
+## Technologies Used
 
 * Python 3.10 or newer
 
 
-## 📦 Installation
+## Installation
 
 ```bash
 # 1 · Clone this repo
@@ -75,7 +75,7 @@ source .venv/bin/activate  # Windows: .venv\Scripts\activate
 ```
 
 
-## ▶️ Usage
+## Usage
 
 ```bash
 python assignment.py
@@ -106,7 +106,7 @@ Average After Bonus: 85.0
 ```
 
 
-## 📁 File Structure
+## File Structure
 
 ```
 python-operators-assignment/
@@ -115,7 +115,7 @@ python-operators-assignment/
 ```
 
 
-## 🧪 Sample Code Snippet
+## Sample Code Snippet
 
 ```python
 # Arithmetic: rectangle area & perimeter
@@ -130,12 +130,12 @@ print("Perimeter:", perimeter)
 *(See `assignment.py` for the full script.)*
 
 
-## 📜 License
+## License
 
 Released under the **MIT License** — see `LICENSE` for details.
 
 
-## 👨‍💻 Author
+## Author
 
 **Akib Mahmud**
 B.Sc. in CSE,<br/> Daffodil International University
@@ -144,11 +144,11 @@ B.Sc. in CSE,<br/> Daffodil International University
 * Email: akibmahmudabcd@gmail.com
 
 
-## 🤝 Contributions
+## Contributions
 
 Pull requests are welcome! Feel free to open issues or fork the repo to improve examples, add comments, or suggest new operator exercises.
 
 
-## 🌟 Support
+## Support
 
 If this helped you, please ⭐ the repository and share it with classmates. Happy coding!
