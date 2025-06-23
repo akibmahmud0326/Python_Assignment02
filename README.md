@@ -11,8 +11,43 @@
 This repository contains complete solutions for a **Python Operators** class assignment.
 You’ll see clear, runnable examples of **arithmetic, logical, assignment, and comparison operators** plus a bonus **student-grading system** that ties them all together.
 
+📁 Assignment Structure <br/>
 
-## 🚀 Features
+✅ 1. Arithmetic Operators <br/>
+Calculate area and perimeter of a rectangle <br/>
+Convert temperature from Celsius to Fahrenheit <br/>
+Find remainder of a division <br/>
+Compute expressions using exponentiation and division <br/>
+Calculate average of 5 numbers <br/>
+✅ 2. Logical Operators <br/>
+Check if a number is positive and even <br/>
+Check voting eligibility <br/>
+Verify conditions using logical and, or, and not <br/>
+Validate student pass/fail status <br/>
+Reverse boolean conditions <br/>
+✅ 3. Assignment Operators <br/>
+Perform chained operations on a variable using +=, -=, *=, /=, %= <br/>
+Create a counter using += <br/>
+Simulate interest accumulation with *= <br/>
+Build a countdown using -= <br/>
+✅ 4. Comparison Operators <br/>
+Check equality and inequality <br/>
+Compare ages and values <br/>
+Determine conditions based on year and marks <br/>
+Validate division safety <br/>
+⭐ Bonus: Mixed Assignment – Grading System <br/>
+A full program that: <br/>
+
+Accepts student details and marks <br/>
+Calculates total, average, and percentage <br/>
+Assigns grades (A, B, C, F) <br/>
+Checks for pass/fail and scholarship eligibility <br/>
+Applies bonus marks using assignment operators <br/>
+Recalculates results after bonus <br/>
+Prints a detailed report <br/>
+
+
+## 🚀 Features 
 
 * ✅ Self-contained, ready-to-run script (`assignment.py`)
 * 🧮 Demonstrates every core operator category in Python
